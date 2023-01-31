@@ -1,2 +1,5 @@
 # Bug-Hunting-Template
-A Template Repository for Bug Hunters. 
+
+#### A Repository, for Bug Hunters.
+
+<img src = "https://media.giphy.com/media/QZIcGPmYMclva/giphy.gif"> </img>
